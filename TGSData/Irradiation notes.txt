@@ -1,0 +1,52 @@
+W6Ta:
+Date:1/22/24
+Grating spacing: 3.5314
+Energy:10.26 Mev
+Spot radius: Assume 2mm
+Time: 1hr22 min
+Faraday cup start: 6.6 nA
+Faraday cup end: 6 nA
+Measured depth: 1.124 um
+Total measured DPA:5.14
+
+
+W11Ta:
+Date:1/22/24
+Grating spacing: 3.5314
+Energy:10.26 MeV
+Spot radius: Assume 2mm
+Time: 
+Faraday cup start: 3.6 nA
+Faraday cup end: 3.6 nA
+Measured depth: 1.124 um
+Total measured DPA: 2.93
+DPA/min:0.0364
+
+
+Pure W
+Date: 2/27/24
+Grating Spacing: 3.5272
+Energy:10.26 MeV
+Spot radius: Assume 2mm
+Time: 180 min
+Start at run 12
+Faraday cup start: 1.2 nA
+Faraday cup end: 0.8 nA
+Measured depth: 1.1227
+Total measured DPA: 2.71
+DPA/min:
+
+W3Ta
+Date: 4/25/24
+Grating Spacing: 3.524
+Energy:10.26 MeV
+Spot radius: Assume 2mm
+Time: 127 min or 
+Start at run:11
+End at run: 132
+	132-142 post irradiation measurements
+Faraday cup start: 0.9 nA
+Faraday cup end: 0.7 nA
+Measured depth: 1.1217
+Total measured DPA: 1.53
+DPA/min:
